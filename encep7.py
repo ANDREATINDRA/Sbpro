@@ -732,7 +732,7 @@ def help():
     helpMessage += "┃ " + "├──────────────\n"
     helpMessage += "┃ " + "╰──⍟ᴛᴇᴀᴍ ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ⍟──\n"
     helpMessage += "╰━━━━━━━━━━━━━━━━"
-    helpMessage += " Creator: https://line.me/ti/p/~teambotprotect \n"
+    helpMessage += " Creator: https://line.me/ti/p/~triexfrozth \n"
     return helpMessage
 
 def helpbot():
@@ -858,7 +858,7 @@ def helpbot():
     helpMessage2 += "┃ " + "├──────────────\n"
     helpMessage2 += "┃ " + "╰──⍟ᴛᴇᴀᴍ ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ⍟──\n"
     helpMessage2 += "╰━━━━━━━━━━━━━━━━"
-    helpMessage2 += " My ID LINE : 〘 https://line.me/ti/p/~teambotprotect 〙\n"
+    helpMessage2 += " My ID LINE : 〘 https://line.me/ti/p/~triexfrozth 〙\n"
     return helpMessage2
 
 def bot(op):
